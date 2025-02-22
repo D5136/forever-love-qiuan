@@ -1,23 +1,23 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>表白页面</title>
-    <style>
-        body {
-            background-color: pink;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding-top: 20%;
+<！doctype html>
+<超文本标记语言朗="zh-CN">
+<头>
+    <元字符集="UTF-8">
+    <元姓名="视口" 内容="宽度=设备宽度，初始比例=1.0">
+    <标题>表白页面</标题>
+    <风格>
+身体{
+            背景色:粉红色;
+            字体系列:Arial,无衬线;
+            文本对齐:中心;
+            顶部衬垫:20%;
         }
-        h1 {
-            color: white;
-            font-size: 3em;
+H1{
+            颜色:白色的;
+            字体大小:3他们;
         }
-    </style>
-</head>
-<body>
-    <h1>我喜欢你，秋斯安！</h1>
-</body>
-</html>
+    </风格>
+</头>
+<身体>
+    <H1>我喜欢你，秋斯安！</H1>
+</身体>
+</超文本标记语言>
